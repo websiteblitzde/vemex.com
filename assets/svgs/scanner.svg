@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"
+     viewBox="0 0 64 64" fill="none" stroke="white"
+     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+     role="img" aria-label="Scanner outline">
+
+    <!-- Trupi kryesor -->
+    <rect x="10" y="18" width="44" height="32" rx="2" ry="2"/>
+
+    <!-- Kapaku i sipërm (fleta që skanohet) -->
+    <rect x="18" y="6" width="28" height="12" rx="2" ry="2"/>
+
+    <!-- Paneli i poshtëm -->
+    <rect x="14" y="36" width="36" height="14" rx="2" ry="2"/>
+
+    <!-- Vija e skanimit -->
+    <line x1="22" y1="24" x2="42" y2="24"/>
+</svg>

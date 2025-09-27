@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="42" height="42" fill="white">
+    <!-- Kaseta e tonerit -->
+    <rect x="40" y="140" width="160" height="40" rx="6" ry="6"/>
+    <rect x="34" y="148" width="6" height="24" rx="2" ry="2"/>
+    <rect x="200" y="148" width="6" height="24" rx="2" ry="2"/>
+    <rect x="80" y="132" width="80" height="8"/>
+
+    <!-- Vija brenda tonerit -->
+    <rect x="60" y="152" width="20" height="4"/>
+    <rect x="90" y="152" width="20" height="4"/>
+    <rect x="120" y="152" width="20" height="4"/>
+    <rect x="150" y="152" width="20" height="4"/>
+
+    <!-- Ingranazh për të treguar pjesë -->
+    <circle cx="180" cy="80" r="20"/>
+    <path d="M180 60v8M180 92v8M160 80h8M192 80h8M167 67l6 6M187 67l-6 6M167 93l6-6M187 93l-6-6"/>
+    <circle cx="180" cy="80" r="6"/>
+
+    <!-- Pikat CMYK për tonerët -->
+    <circle cx="60" cy="80" r="8"/>
+    <circle cx="90" cy="80" r="8"/>
+    <circle cx="120" cy="80" r="8"/>
+    <circle cx="150" cy="80" r="8"/>
+</svg>

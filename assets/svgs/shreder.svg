@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 64 64" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Shredder outline">
+    <!-- Fleta -->
+    <rect x="18" y="8" width="28" height="12" rx="2"/>
+    <!-- Gryka -->
+    <rect x="10" y="20" width="44" height="6" rx="2"/>
+    <!-- Trupi -->
+    <rect x="8" y="26" width="48" height="22" rx="3"/>
+    <!-- Paneli -->
+    <circle cx="16" cy="32" r="1.6"/>
+    <circle cx="21" cy="32" r="1.6"/>
+    <line x1="26" y1="32" x2="38" y2="32"/>
+    <!-- Shirita -->
+    <line x1="15" y1="48" x2="15" y2="56"/>
+    <line x1="21" y1="48" x2="21" y2="58"/>
+    <line x1="27" y1="48" x2="27" y2="55"/>
+    <line x1="33" y1="48" x2="33" y2="59"/>
+    <line x1="39" y1="48" x2="39" y2="57"/>
+    <line x1="45" y1="48" x2="45" y2="56"/>
+</svg>
