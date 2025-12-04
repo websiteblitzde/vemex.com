@@ -620,7 +620,7 @@ section {
 @media (min-width: 1200px) {
     section {
         padding-top: 80px;
-        padding-bottom: 80px;
+        padding-bottom: 40px;
     }
 }
 
@@ -2320,8 +2320,8 @@ nav .cart-wrapper.open {
 
 @media (min-width: 992px) {
     .products .box-filters figure {
-        width: 100px;
-        height: 100px;
+        width: 140px;
+        height: 140px;
     }
     .products .box-filters figure .f-icon {
         font-size: 68px;
@@ -4320,7 +4320,7 @@ nav .cart-wrapper.open {
 @media (min-width: 768px) {
     .banner.banner-smaller {
         padding-top: 80px;
-        padding-bottom: 80px;
+        padding-bottom: 40px;
     }
 }
 
@@ -5410,7 +5410,7 @@ nav .cart-wrapper.open {
 
 @media (min-width: 992px) {
     .history {
-        padding: 80px 0;
+        padding: 30px 0;
     }
     .history .row-block {
         display: table;
@@ -6253,6 +6253,40 @@ footer .footer-social li a {
     animation: moveToBottom .7s ease-in-out both;
     color: red;
 }
+
+
+
+.box-filters figure span {
+  display: block !important;
+  font-size: clamp(8px, 2.3vw, 12px) !important;
+  text-align: center !important;
+  line-height: 1.1em !important;
+  margin-top: 20px;
+}
+
+.pt-50{
+  padding-top: 50px;
+}
+
+.height-250{
+  height: 250px;
+  max-height: 250px;
+}
+
+.height-250 .image {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.height-250 .image img {
+  max-height: 50%;   /* or 160px */
+  width: auto;
+  height: auto;
+}
+
+
+
 
 /* Version 2.2.0. 
  * Theme credit ElaThemes.com */
